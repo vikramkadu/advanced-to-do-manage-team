@@ -1,0 +1,38 @@
+[
+  {
+    "id": "0x1548659532",
+    "name": "Mohamed Mostafa",
+    "job": "front-end",
+    "image": "https://res.cloudinary.com/availablecoder/image/upload/v1674989138/easy-manage/member-1.png"
+  },
+  {
+    "id": "0x8623156458",
+    "name": "Ahmed Ibrahem",
+    "job": "back-end",
+    "image": "https://res.cloudinary.com/availablecoder/image/upload/v1674989138/easy-manage/member-2.png"
+  },
+  {
+    "id": "0x0326154892",
+    "name": "Ali Ayman",
+    "job": "devops-engineer",
+    "image": "https://res.cloudinary.com/availablecoder/image/upload/v1674989138/easy-manage/member-3.png"
+  },
+  {
+    "id": "0x0459863152",
+    "name": "Khaled Ayman",
+    "job": "UI/UX designer",
+    "image": "https://res.cloudinary.com/availablecoder/image/upload/v1674989138/easy-manage/member-4.png"
+  },
+  {
+    "id": "0x7486253155",
+    "name": "Alaa Ahmed",
+    "job": "back-end",
+    "image": "https://res.cloudinary.com/availablecoder/image/upload/v1674989138/easy-manage/member-5.png"
+  },
+  {
+    "id": "0x0152364508",
+    "name": "Tariq Al-Sayed",
+    "job": "front-end",
+    "image": "https://res.cloudinary.com/availablecoder/image/upload/v1674989138/easy-manage/member-6.png"
+  }
+]

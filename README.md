@@ -25,13 +25,13 @@ Progress Tracking: Monitor the progress of tasks and projects within the applica
 
 ## Tech Stack
 
-React: A declarative and efficient JavaScript library for building user interfaces.
+**React:** A declarative and efficient JavaScript library for building user interfaces.
 
-TypeScript: Adds static typing to JavaScript, enhancing code quality and developer productivity.
+**TypeScript: ** Adds static typing to JavaScript, enhancing code quality and developer productivity.
 
-Redux: A state management library for managing the application's state in a predictable way.
+**Redux: ** A state management library for managing the application's state in a predictable way.
 
-Vite: A fast and opinionated web dev build tool that serves as the project's development server and bundler.
+**Vite: ** A fast and opinionated web dev build tool that serves as the project's development server and bundler.
 
 
 
